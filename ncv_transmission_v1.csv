@@ -1,0 +1,48 @@
+Dest.,From,Cases
+China,Italy,1
+China,Iran,26
+South Korea,China,8
+South Korea,Italy,1
+Iran,China,1
+Italy,China,4
+France,China,5
+Germany,Italy,4
+Germany,Iran,1
+Germany,China,3
+Spain,Italy,17
+Spain,Iran,1
+Spain,France,1
+Spain,UK,1
+Spain,Germany,1
+Japan,China,9
+United States,Italy,2
+United States,China,11
+United States,South Korea,1
+United States,Iran,1
+Switzerland,Italy,7
+Switzerland,France,1
+UK,China,2
+UK,Italy,5
+Belgium,Italy,9
+Belgium,China,1
+Belgium,France,1
+Netherlands,Italy,2
+Sweden,China,1
+Sweden,Italy,25
+Sweden,Iran,1
+Sweden,United States,1
+Norway,Italy,4
+Norway,Iran,1
+Norway,China,1
+Austria,Italy,5
+Malaysia,Italy,1
+Australia,Italy,1
+Australia,Iran,4
+Australia,China,18
+Canada,Italy,2
+Canada,Iran,1
+Denmark,Italy,8
+Denmark,Iran,1
+Denmark,France,1
+Denmark,Netherlands,1
+Denmark,Austria,1
